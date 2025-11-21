@@ -1,8 +1,6 @@
-README - ECE 612 Assignment 1 Submission
---------------------------------------------
 Student: Akash Adrashannavar
 Course: Applied Machine Learning Engineering (ECE 612)
-Assignment: Homework 1 - TFRecord Pipeline and Classifier
+TFRecord Pipeline and Classifier
 
 Files included:
 1. createSavedDataset.py
